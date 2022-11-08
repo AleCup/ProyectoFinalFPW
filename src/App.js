@@ -1,4 +1,4 @@
-import Principal from './components/Principal';
+import Principal from './componentes/Principal';
 
 function App() {
   return (
